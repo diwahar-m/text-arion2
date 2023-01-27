@@ -1,0 +1,20 @@
+.detailHome{
+    height:100vh; 
+    background-color:burlywood;
+    background-size: cover;
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center;
+} 
+.box{
+    display: flex; 
+    flex-direction: column; 
+    justify-content: space-between; 
+}
+button{
+    background-color: aqua; 
+    font-weight:bold; 
+    padding:7px;
+    margin: 10px 0 0 50px;
+}
